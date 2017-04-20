@@ -9,6 +9,6 @@
         <string>/usr/local/bin/slackify</string>
     </array>
     <key>StartInterval</key>
-    <integer>60</integer>
+    <integer>30</integer>
 </dict>
 </plist>
